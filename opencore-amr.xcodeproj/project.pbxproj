@@ -203,6 +203,10 @@
 		430DAA811A4D73EF002DBE9A /* voice_factor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 430DA9AC1A4D73EF002DBE9A /* voice_factor.cpp */; };
 		430DAA821A4D73EF002DBE9A /* wb_syn_filt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 430DA9AD1A4D73EF002DBE9A /* wb_syn_filt.cpp */; };
 		430DAA831A4D73EF002DBE9A /* weight_amrwb_lpc.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 430DA9AE1A4D73EF002DBE9A /* weight_amrwb_lpc.cpp */; };
+		433313211A510407009FEC07 /* interf_dec.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 430DA7C41A4D7391002DBE9A /* interf_dec.h */; };
+		433313221A510409009FEC07 /* interf_enc.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 430DA7C51A4D7391002DBE9A /* interf_enc.h */; };
+		433313231A510455009FEC07 /* dec_if.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 430DA7FA1A4D73DB002DBE9A /* dec_if.h */; };
+		433313241A510459009FEC07 /* if_rom.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 430DA7FB1A4D73DB002DBE9A /* if_rom.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -212,6 +216,10 @@
 			dstPath = "include/$(PRODUCT_NAME)";
 			dstSubfolderSpec = 16;
 			files = (
+				433313211A510407009FEC07 /* interf_dec.h in CopyFiles */,
+				433313221A510409009FEC07 /* interf_enc.h in CopyFiles */,
+				433313231A510455009FEC07 /* dec_if.h in CopyFiles */,
+				433313241A510459009FEC07 /* if_rom.h in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1639,6 +1647,7 @@
 				430DA7241A4D7307002DBE9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
