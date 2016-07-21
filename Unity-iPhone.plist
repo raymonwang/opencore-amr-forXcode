@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://222.73.196.49:8080/icon.png</string>
+					<string>http://122.11.47.93:10009/xiaochu/shareweb/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://222.73.196.49:8080/icon.png</string>
+					<string>http://122.11.47.93:10009/xiaochu/shareweb/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.tongping.chatdemo</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
