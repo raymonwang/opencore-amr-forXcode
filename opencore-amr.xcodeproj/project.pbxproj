@@ -1604,6 +1604,7 @@
 					"$(SRCROOT)/opencore-amr/opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/include",
 					"$(SRCROOT)/opencore-amr/opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src",
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1622,6 +1623,7 @@
 					"$(SRCROOT)/opencore-amr/opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/include",
 					"$(SRCROOT)/opencore-amr/opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src",
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
