@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tongping.chatdemo</string>
+				<string>ztgame.RTChatDemo</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
